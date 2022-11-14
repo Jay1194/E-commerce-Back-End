@@ -32,5 +32,6 @@ Jay1194
 Jay1194@github.com
 
 # Repo
+https://github.com/Jay1194/E-commerce-Back-End
 
-# Deployed Application
+# Video Walk-through
